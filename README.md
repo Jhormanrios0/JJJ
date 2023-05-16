@@ -11,7 +11,7 @@ El prototipo de esta aplicación tiene como finalidad, agilizar procesos. Obteni
 
 ## **Librerias usadas en este proyecto:**
 
-- Openai:[https://github.com/openai/openai-python](https://github.com/openai/openai-python "https://github.com/openai/openai-python")
+- Openai:[[https://github.com/openai/openai-python](https://platform.openai.com/docs/api-reference/introduction)]([https://github.com/openai/openai-python "https://github.com/openai/openai-python"](https://platform.openai.com/docs/api-reference/introduction)
 ```
 pip install --upgrade openai
 ```

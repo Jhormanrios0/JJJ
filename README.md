@@ -4,7 +4,7 @@
 
 
 
-![](https://www.instagram.com/p/CsWamGSLYMP/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==)
+![](![image](https://github.com/Jhormanrios0/JJJ/assets/124940862/5a7440b0-f5ab-4d3d-b37c-32516a13c5d3))
 
 El prototipo de esta aplicación tiene como finalidad, agilizar procesos. Obteniendo así una atención más personalizada al cliente, dando recomendaciones y análisis precisos para enfermedades comunes, con tratamientos asequibles y así poder reducir tiempo y recursos.
 

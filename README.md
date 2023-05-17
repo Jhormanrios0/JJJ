@@ -4,7 +4,7 @@
 
 
 
-![](https://s4.aconvert.com/convert/p3r68-cdx67/a17hy-869xx.webp)
+![]("D:\Users\ASUS\Downloads\Eva.jpg")
 
 El prototipo de esta aplicación tiene como finalidad, agilizar procesos. Obteniendo así una atención más personalizada al cliente, dando recomendaciones y análisis precisos para enfermedades comunes, con tratamientos asequibles y así poder reducir tiempo y recursos.
 

@@ -5,7 +5,7 @@ import time
 
 
 # Inicialización API Openai(ChatGPT_3)
-openai.api_key = "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"
+openai.api_key = "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"
 # Inicialización de motor encargado de sustituir el texto por voz
 engine=pyttsx3.init()
 

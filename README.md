@@ -11,10 +11,10 @@ El prototipo de esta aplicación tiene como finalidad, agilizar procesos. Obteni
 
 ## **Librerias usadas en este proyecto:**
 
-- Openai:[(https://platform.openai.com/docs/api-reference/introduction)]([(https://platform.openai.com/docs/api-reference/introduction)
+- Openai:[https://pypi.org/project/openai/](https://pypi.org/project/openai/ "https://pypi.org/project/openai/")
 ```
-pip install --upgrade openai
-```
+pip install openai```
+
 - speech_recognition:[https://pypi.org/project/SpeechRecognition/](https://pypi.org/project/SpeechRecognition/ "https://pypi.org/project/SpeechRecognition/")
 ```
 pip install SpeechRecognition

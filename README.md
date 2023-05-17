@@ -4,7 +4,7 @@
 
 
 
-![](https://www.facebook.com/profile.php?id=100005641486310)
+![](https://scontent-bog1-1.xx.fbcdn.net/v/t39.30808-6/344573933_196884446550024_5083295227367216315_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=8bfeb9&_nc_eui2=AeHKS81mhntRBaSYH4cWKNxSDRIj0GfyCpsNEiPQZ_IKm3-E7b16PJ9L4J0S12Z-5Y4qjpLkW8AXpTG65MMBihLW&_nc_ohc=W1a87-zWj6YAX_T6R0t&_nc_oc=AQnC-dPo56HqWPghXImHIICxCK2NaMdu5L-pjHmGlN_h9Ri9FZV5LNJVJoOmwWORkUM&_nc_ht=scontent-bog1-1.xx&oh=00_AfDt4N3fXNB0Y_B03AJ8vD2c8RlYTuC4kHrhEmX8ZpPjFA&oe=646A1E9F)
 El prototipo de esta aplicación tiene como finalidad, agilizar procesos. Obteniendo así una atención más personalizada al cliente, dando recomendaciones y análisis precisos para enfermedades comunes, con tratamientos asequibles y así poder reducir tiempo y recursos.
 
 

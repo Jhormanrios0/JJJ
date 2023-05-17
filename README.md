@@ -19,7 +19,7 @@ pip install --upgrade openai
 ```
 pip install SpeechRecognition
 ```
-- pyttsx3:[pip install pyttsx3](pip install pyttsx3 "pip install pyttsx3")
+- pyttsx3:[https://pypi.org/project/pyttsx3/](https://pypi.org/project/pyttsx3/ "https://pypi.org/project/pyttsx3/")
 ```
 pip install pyttsx3
 ```

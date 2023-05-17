@@ -62,7 +62,7 @@ def main():
                 if transcription.lower()=="hola":
                     #Grabar audio
                     filename ="input.wav"
-                    print("Dime que quieres mozo")
+                    print("Dime que quieres que diagnostique")
                     with sr.Microphone() as source:
                         recognizer=sr.Recognizer()
                         source.pause_threshold=1

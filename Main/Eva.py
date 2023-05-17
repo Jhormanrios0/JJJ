@@ -5,7 +5,13 @@ import time
 
 
 # Inicialización API Openai(ChatGPT_3)
-openai.api_key = "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"
+openai.api_key = ""
+#ES NECESARIO GENERAR KEY DESDE OPENAI
+#(EN EL README.MD DE GITHUB"https://github.com/Jhormanrios0/JJJ/blob/main/README.md"
+# ENCONTRARÁ EL PASO A PASO DE COMO GENERAR LA KEY)
+
+
+
 # Inicialización de motor encargado de sustituir el texto por voz
 engine=pyttsx3.init()
 
